@@ -14,6 +14,7 @@ firebase.initializeApp(environment.firebase)
 @Injectable({
   providedIn: 'root'
 })
+
 export class FuncionarioService {
 
 
